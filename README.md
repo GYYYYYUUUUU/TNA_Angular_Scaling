@@ -1,6 +1,7 @@
 # TNA_Angular_Scaling
 
 Implementation of [Tilt and Average : Geometric Adjustment of the Last Layer for Recalibration](link) (to appear in ICML2024).
+
 (Under Construction)
 
 ## Usage
